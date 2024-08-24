@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Are We There Yet amarnat4</string>
+    <string name="text_provider">Dummy</string>
+    <string name="text_latitude">Dummy</string>
+    <string name="text_longitude">Dummy</string>
+    <string name="text_to">Dummy</string>
+    <string name="text_distance">Dummy</string>
+    <string name="text_new_location">New Location</string>
+    <string name="eb2250">EB2250</string>
+    <string name="sparty">Sparty</string>
+    <string name="home">Home</string>
+    <string name="exception">Failed to communicate with geolocation services</string>
+    <string name="couldnotfind">Unable to locate address</string>
+    <string name="walk">Walk</string>
+    <string name="drive">Drive</string>
+    <string name="bicycling">Bicycling</string>
+</resources>
