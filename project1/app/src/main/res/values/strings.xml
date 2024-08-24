@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="welcome">Welcome to Team 10\'s Connect4 Game</string>
+    <string name="img_placholder">Image Placeholder</string>
+    <string name="player1">Player 1:</string>
+    <string name="player2">Player 2:</string>
+    <string name="board_description">Image of Board</string>
+    <string name="start_button">Start</string>
+    <string name="player_1_name">Player 1\'s Name</string>
+    <string name="player_2_name">Player 2\'s Name</string>
+    <string name="done_button">Done</string>
+    <string name="undo_button">Undo</string>
+    <string name="surrender_button">Surrender</string>
+    <string name="result">Player 1 is the winner</string>
+    <string name="new_game">New Game</string>
+    <string name="done">Done</string>
+    <string name="current_player">current player</string>
+    <string name="player_1">player1</string>
+    <string name="player_2">player2</string>
+    <string name="turn">turn</string>
+    <string name="mypref">mypref</string>
+    <string name="winner"> is the winner</string>
+</resources>
